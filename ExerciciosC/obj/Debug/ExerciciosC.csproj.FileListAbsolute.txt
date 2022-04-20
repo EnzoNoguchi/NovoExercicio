@@ -1,0 +1,7 @@
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\obj\Debug\ExerciciosC.csproj.AssemblyReference.cache
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\obj\Debug\ExerciciosC.csproj.CoreCompileInputs.cache
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\bin\Debug\ExerciciosC.exe.config
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\bin\Debug\ExerciciosC.exe
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\bin\Debug\ExerciciosC.pdb
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\obj\Debug\ExerciciosC.exe
+C:\Users\augusto.enmororo\source\repos\ExerciciosC\ExerciciosC\obj\Debug\ExerciciosC.pdb
